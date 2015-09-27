@@ -1,0 +1,3 @@
+App ca be run on apache tomcat v6.
+i have kept password for sql as username=root; password=1234;
+thanx;
